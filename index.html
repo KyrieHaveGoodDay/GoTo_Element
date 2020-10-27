@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body id="top">
+    <nav>
+        <!-- target 目標 -->
+        <!-- duration 時間 -->
+        <!-- offset 位移 -->
+        <!-- data-gt-garget 名稱可以自行修改-->
+        <span  data-gt-target="#box1" data-gt-duration="1000" data-gt-offset="0">連結1</span>
+        <span data-gt-target="#box2" data-gt-duration="1500" data-gt-offset="200">連結2</span>
+        <span data-gt-target="#box3" data-gt-duration="2000" data-gt-offset="0">連結3</span>
+    </nav>
+
+    <section id="box1">區塊1</section>
+    <section id="box2">區塊2</section>
+    <section id="box3">區塊3</section>
+
+    <img src="./icon-top.png" alt="top" id="gotop" data-gt-target="#top" data-gt-duration="2000" data-gt-offset="0">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="./goto.js"></script>
+</body>
+</html>
