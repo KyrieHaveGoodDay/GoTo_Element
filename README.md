@@ -8,5 +8,5 @@ https://kyriehavegoodday.github.io/GoTo_Element/
 
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://github.com/KID421/Web_HC_ZL_jQuery_GoTo/blob/main/goTo.js"></script>
+<script src="https://github.com/KyrieHaveGoodDay/GoTo_Element/blob/main/goto.js"></script>
 
