@@ -12,7 +12,7 @@ https://kyriehavegoodday.github.io/GoTo_Element/
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <!-- JS CDN -->
-<script src="https://github.com/KyrieHaveGoodDay/GoTo_Element/blob/main/goto.js"></script>
+<script src="https://kyriehavegoodday.github.io/GoTo_Element/goto.js"></script>
 
 ```
 
